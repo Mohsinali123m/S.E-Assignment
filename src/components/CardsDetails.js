@@ -20,6 +20,10 @@ const CardsDetails = () => {
 
 
 
+
+
+  
+
   
   const getdata = useSelector((state)=> state.cartreducer.carts);
   // console.log(getdata);
