@@ -11,6 +11,10 @@ const Cardsdata = [
         arrimg: "https://b.zmtcdn.com/data/o2_assets/4bf016f32f05d26242cea342f30d47a31595763089.png?output-format=webp",
         qnty:0
     },
+
+
+
+    
     {
         id: 2,
         rname: "Jugaadi Adda",
